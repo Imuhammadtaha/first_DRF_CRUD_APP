@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.env/
+.venv/
+ENV/
+env/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+media/
+staticfiles/
+static/
+*.db
+*.sqlite3
+
+# Migrations
+**/migrations/
+!**/migrations/__init__.py
+
+# PostgreSQL credentials (optional, if any .pgpass etc.)
+.pgpass
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

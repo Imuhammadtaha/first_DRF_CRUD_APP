@@ -14,9 +14,9 @@ from pathlib import Path
 import cloudinary
 
 cloudinary.config(
-    cloud_name = "dr3vqhabz", 
-    api_key = "564879657344297", 
-    api_secret = "dnjqW1wrYdDAtX8X0_C-ZpLUT-w" 
+    cloud_name = "", 
+    api_key = "", 
+    api_secret = "" 
 )
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
